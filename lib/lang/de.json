@@ -1,0 +1,9 @@
+{
+  "club_loading_failed" : "Konnte Clubs nicht laden",
+  "connectivity_issue" : "Es gab ein Connection Problem, bitte versuche es erneut",
+  "title": "about all clubs",
+  "million": "Millionen",
+  "club_description_1": "Der Club",
+  "club_description_2": "aus %s hat einen Wert von %s Millionen Euro.",
+  "club_description_3": "%s konnte bislang %s Siege auf europäischer Ebene erreichen."
+}

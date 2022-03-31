@@ -1,0 +1,9 @@
+{
+  "club_loading_failed" : "Couldn't load clubs",
+  "connectivity_issue" : "There has been a connectivity problem, please try it again",
+  "title" : "about all clubs",
+  "million": "Million",
+  "club_description_1": "The club",
+  "club_description_2": "from %s has a market value of %s million euro.",
+  "club_description_3": "%s was able to win %s titles on the european stage."
+}
